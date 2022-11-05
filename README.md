@@ -1,2 +1,3 @@
 # assignment_musicapp
-Assignment for musicapp
+
+A music library API.
