@@ -27,7 +27,5 @@ class Lyric(models.Model):
     def __str__(self):
         return self.Artiste.first_name + " " + self.Artiste.last_name + " " + self.class_name
     
-    class - classArtiste.object.get(Artiste-1)
     
-    class.Artiste.firstname
 # Create your models here.
